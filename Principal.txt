@@ -27,3 +27,5 @@ Alteracao 25-Master
 Alteracao 27-Master
 Alteracao 29-Master
 Alteracao 31-Master
+Alteração 32-Dev
+Alteracao 33-Dev
