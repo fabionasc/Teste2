@@ -31,4 +31,5 @@ Alteração 32-Dev
 Alteracao 33-Dev
 Alteracao 34-Dev
 Alteracao 35-Master
-Alteracao 46-Master
+Alteracao 36-Master
+Alteracao 37-Master
